@@ -2,7 +2,7 @@ name: 更新数据并部署
 
 on:
   schedule:
-    - cron: '17 * * * *'
+    - cron: '17 */6 * * *'
   push:
     branches: [main, dev]
   workflow_dispatch:
@@ -60,6 +60,7 @@ jobs:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_API_BASE: ${{ secrets.LLM_API_BASE }}
           LLM_NAME: ${{ secrets.LLM_NAME }}
+          SUMMARY_LOCALES: zh
 
       - name: Build static site
         run: pnpm build
