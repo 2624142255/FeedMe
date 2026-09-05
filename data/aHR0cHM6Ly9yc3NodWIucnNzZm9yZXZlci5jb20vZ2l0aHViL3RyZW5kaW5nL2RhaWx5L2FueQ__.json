@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9a01a17342f9dee5f1b18ce11e7f1b95abcd5a31dbc654316d3bd0d09342c48c/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 250658<br>Forks: 21178",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 250658\nForks: 21178",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6\" referrerpolicy=\"no-referrer\"><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.<br><br>Language: JavaScript<br>Stars: 126381<br>Forks: 6774",
+      "contentSnippet": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\nLanguage: JavaScript\nStars: 126381\nForks: 6774",
+      "creator": "DietrichGebert",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "fmtlib/fmt",
+      "link": "https://github.com/fmtlib/fmt",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8c2c1303b550e789f836a2961029a4a743301905f5770ce0a9b60f013d3075e2/fmtlib/fmt\" referrerpolicy=\"no-referrer\"><br>A modern formatting library<br><br>Language: C++<br>Stars: 25489<br>Forks: 3035",
+      "contentSnippet": "A modern formatting library\nLanguage: C++\nStars: 25489\nForks: 3035",
+      "creator": "fmtlib",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9e42693858430902773f25809c274cc116490ed0cd57f2414401f72ef179d6df/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 248637<br>Forks: 37475",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 248637\nForks: 37475",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9871365b6fd752492545de05d949b48fdf4de22c1c052f2698d62f40e941ead7/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills<br><br>Language: Python<br>Stars: 174190<br>Forks: 20649",
+      "contentSnippet": "Public repository for Agent Skills\nLanguage: Python\nStars: 174190\nForks: 20649",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "blader/humanizer",
+      "link": "https://github.com/blader/humanizer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a66b27312033bf8fad87f35c4bc2e1ffaa44e729f4b53c63d5f3eb5ff817bd79/blader/humanizer\" referrerpolicy=\"no-referrer\"><br>Agent skill that removes signs of AI-generated writing from text<br><br>Language: Python<br>Stars: 42838<br>Forks: 3615",
+      "contentSnippet": "Agent skill that removes signs of AI-generated writing from text\nLanguage: Python\nStars: 42838\nForks: 3615",
+      "creator": "blader",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e8750e55ffbbeb1faa268ad420294ed3dd35044115580527d381553ad55d0299/NousResearch/hermes-agent\" referrerpolicy=\"no-referrer\"><br>The agent that grows with you<br><br>Language: Python<br>Stars: 241575<br>Forks: 49580",
+      "contentSnippet": "The agent that grows with you\nLanguage: Python\nStars: 241575\nForks: 49580",
+      "creator": "NousResearch",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cc77386a4fce3d0872ec542c04419e8e0e53da28b530e24e2d3d30ad0a4be41f/JuliusBrussee/caveman\" referrerpolicy=\"no-referrer\"><br>🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman<br><br>Language: Go<br>Stars: 103624<br>Forks: 6007",
+      "contentSnippet": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman\nLanguage: Go\nStars: 103624\nForks: 6007",
+      "creator": "JuliusBrussee",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T04:32:55.717Z"
+}

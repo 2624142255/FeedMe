@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "pubDate": "Sat, 05 Sep 2026 07:52:50 +0000",
+      "isoDate": "2026-09-05T07:52:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49574167\">https://news.ycombinator.com/item?id=49574167</a></p>\n<p>Points: 249</p>\n<p># Comments: 213</p>\n",
+      "contentSnippet": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\nComments URL: https://news.ycombinator.com/item?id=49574167\nPoints: 249\n# Comments: 213",
+      "creator": "sylvainkalache",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Nitter has more working instances than before the takedowns",
+      "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "pubDate": "Sat, 05 Sep 2026 00:04:16 +0000",
+      "isoDate": "2026-09-05T00:04:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://codeberg.org/mv12star/shitter/wiki/Instances\">https://codeberg.org/mv12star/shitter/wiki/Instances</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571634\">https://news.ycombinator.com/item?id=49571634</a></p>\n<p>Points: 387</p>\n<p># Comments: 154</p>\n",
+      "contentSnippet": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances\nComments URL: https://news.ycombinator.com/item?id=49571634\nPoints: 387\n# Comments: 154",
+      "creator": "Cider9986",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "link": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+      "pubDate": "Fri, 04 Sep 2026 22:03:16 +0000",
+      "isoDate": "2026-09-04T22:03:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx\">https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570772\">https://news.ycombinator.com/item?id=49570772</a></p>\n<p>Points: 508</p>\n<p># Comments: 421</p>\n",
+      "contentSnippet": "Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx\nComments URL: https://news.ycombinator.com/item?id=49570772\nPoints: 508\n# Comments: 421",
+      "creator": "karakoram",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "pubDate": "Fri, 04 Sep 2026 21:52:01 +0000",
+      "isoDate": "2026-09-04T21:52:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nvd.nist.gov/vuln/detail/cve-2026-85046\">https://nvd.nist.gov/vuln/detail/cve-2026-85046</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570669\">https://news.ycombinator.com/item?id=49570669</a></p>\n<p>Points: 619</p>\n<p># Comments: 344</p>\n",
+      "contentSnippet": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046\nComments URL: https://news.ycombinator.com/item?id=49570669\nPoints: 619\n# Comments: 344",
+      "creator": "negura",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "link": "https://openrouter.ai/openai/gpt-6-astra",
+      "pubDate": "Fri, 04 Sep 2026 21:39:19 +0000",
+      "isoDate": "2026-09-04T21:39:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://openrouter.ai/openai/gpt-6-astra\">https://openrouter.ai/openai/gpt-6-astra</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570545\">https://news.ycombinator.com/item?id=49570545</a></p>\n<p>Points: 262</p>\n<p># Comments: 175</p>\n",
+      "contentSnippet": "Article URL: https://openrouter.ai/openai/gpt-6-astra\nComments URL: https://news.ycombinator.com/item?id=49570545\nPoints: 262\n# Comments: 175",
+      "creator": "Topfi",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Statichost.eu – European static site hosting",
+      "link": "https://www.statichost.eu/",
+      "pubDate": "Fri, 04 Sep 2026 20:34:49 +0000",
+      "isoDate": "2026-09-04T20:34:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.statichost.eu/\">https://www.statichost.eu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569896\">https://news.ycombinator.com/item?id=49569896</a></p>\n<p>Points: 359</p>\n<p># Comments: 165</p>\n",
+      "contentSnippet": "Article URL: https://www.statichost.eu/\nComments URL: https://news.ycombinator.com/item?id=49569896\nPoints: 359\n# Comments: 165",
+      "creator": "p4bl0",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "pubDate": "Fri, 04 Sep 2026 19:48:29 +0000",
+      "isoDate": "2026-09-04T19:48:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://eebench.org/blog/can-ai-design-circuit-boards-yet/\">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569366\">https://news.ycombinator.com/item?id=49569366</a></p>\n<p>Points: 299</p>\n<p># Comments: 177</p>\n",
+      "contentSnippet": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/\nComments URL: https://news.ycombinator.com/item?id=49569366\nPoints: 299\n# Comments: 177",
+      "creator": "iopapa",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Shutting down our public encrypted DNS",
+      "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "pubDate": "Fri, 04 Sep 2026 18:50:28 +0000",
+      "isoDate": "2026-09-04T18:50:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead\">https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49568579\">https://news.ycombinator.com/item?id=49568579</a></p>\n<p>Points: 384</p>\n<p># Comments: 182</p>\n",
+      "contentSnippet": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead\nComments URL: https://news.ycombinator.com/item?id=49568579\nPoints: 384\n# Comments: 182",
+      "creator": "mywacaday",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T15:16:28.063Z"
+}

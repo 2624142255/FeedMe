@@ -1,0 +1,145 @@
+{
+  "sourceUrl": "https://blog.cloudflare.com/rss/",
+  "title": "Cloudflare Blog",
+  "description": "Technical deep dives, product updates, and insights from the teams that are helping to build a better Internet.",
+  "link": "https://blog.cloudflare.com/",
+  "items": [
+    {
+      "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+      "link": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+      "pubDate": "Thu, 03 Sep 2026 21:03:02 GMT",
+      "isoDate": "2026-09-03T21:03:02.000Z",
+      "content": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identify and patch the most critical threats first.",
+      "contentSnippet": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identify and patch the most critical threats first.",
+      "creator": "Ken Sanderson",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M1JDYW2RHXMJDDXS13K6VESF.01M1JDYX370D7EV4BHCDQS4C6J.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+      "link": "https://blog.cloudflare.com/cache-transcoding/",
+      "pubDate": "Tue, 01 Sep 2026 12:59:00 GMT",
+      "isoDate": "2026-09-01T12:59:00.000Z",
+      "content": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
+      "contentSnippet": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
+      "creator": "Aashi Patel",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M1DADS947G87BAG8BQJ5RZN6.01M1DADSZ25WXKD5DG1M70HJR8.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
+      "link": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
+      "pubDate": "Mon, 31 Aug 2026 12:59:00 GMT",
+      "isoDate": "2026-08-31T12:59:00.000Z",
+      "content": "Bot operators have historically had the economic advantage, bypassing static, deterministic detection rules with cheap proxies and retooling. Cloudflare's new Adaptive Intelligence engine flips this dynamic by autonomously learning from the meta-signals of live traffic and deploying disposable rules, making automated attacks too expensive to sustain.",
+      "contentSnippet": "Bot operators have historically had the economic advantage, bypassing static, deterministic detection rules with cheap proxies and retooling. Cloudflare's new Adaptive Intelligence engine flips this dynamic by autonomously learning from the meta-signals of live traffic and deploying disposable rules, making automated attacks too expensive to sustain.",
+      "creator": "Chris Pope",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M15GS9CV1VMMQCAPHYE4AFD2.01M15GSA31CJVHRJCPHH7FBX77.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
+      "link": "https://blog.cloudflare.com/botbase-for-operators/",
+      "pubDate": "Fri, 28 Aug 2026 12:59:44 GMT",
+      "isoDate": "2026-08-28T12:59:44.000Z",
+      "content": "Bot operators now have a home in the Cloudflare dashboard to manage submissions. This update adds submission status tracking, submission editing, and a behavior model so operators can accurately declare how their bots use content.\n",
+      "contentSnippet": "Bot operators now have a home in the Cloudflare dashboard to manage submissions. This update adds submission status tracking, submission editing, and a behavior model so operators can accurately declare how their bots use content.",
+      "creator": "Julian Laxman",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M0GDDRDD6CY3JE6JJQGJM761.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+      "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "pubDate": "Thu, 27 Aug 2026 17:02:35 GMT",
+      "isoDate": "2026-08-27T17:02:35.000Z",
+      "content": "Five Rust-level memory optimizations to the DNS cache layout of Big Pineapple cut per-entry memory by 56%, freeing approximately 100 TB of memory across Cloudflare's fleet.",
+      "contentSnippet": "Five Rust-level memory optimizations to the DNS cache layout of Big Pineapple cut per-entry memory by 56%, freeing approximately 100 TB of memory across Cloudflare's fleet.",
+      "creator": "Sebastiaan Neuteboom",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M117Y6R8CDGVT4K2XX6VQ2YX.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Cloudflare Blog — brought to you by EmDash",
+      "link": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
+      "pubDate": "Mon, 24 Aug 2026 19:00:00 GMT",
+      "isoDate": "2026-08-24T19:00:00.000Z",
+      "content": "We migrated the Cloudflare Blog to EmDash to prove our stack at massive scale. Here is how we stress-tested performance, safely routed production traffic, and redesigned the frontend experience.",
+      "contentSnippet": "We migrated the Cloudflare Blog to EmDash to prove our stack at massive scale. Here is how we stress-tested performance, safely routed production traffic, and redesigned the frontend experience.",
+      "creator": "Kody Jackson",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M0TDC1Q5KWFS3GWEG7SHYMEP.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Say it once: Introducing Bot Preference Sync",
+      "link": "https://blog.cloudflare.com/bot-preference-sync/",
+      "pubDate": "Fri, 21 Aug 2026 23:19:57 GMT",
+      "isoDate": "2026-08-21T23:19:57.000Z",
+      "content": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your content without maintaining static files.",
+      "contentSnippet": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your content without maintaining static files.",
+      "creator": "Jin-Hee Lee",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M0GECYRV44NP1WR229SCRK7E.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "From all-or-nothing to task-based OAuth consent",
+      "link": "https://blog.cloudflare.com/task-based-oauth-consent/",
+      "pubDate": "Thu, 20 Aug 2026 17:03:03 GMT",
+      "isoDate": "2026-08-20T17:03:03.000Z",
+      "content": "Cloudflare OAuth now supports optional scopes, giving users more control over what an app can access and helping developers build secure consent flows around the task at hand.",
+      "contentSnippet": "Cloudflare OAuth now supports optional scopes, giving users more control over what an app can access and helping developers build secure consent flows around the task at hand.",
+      "creator": "Miller Vargas",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M0E2VFX1WXFF6TK51VFNP5V3.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T15:16:32.778Z"
+}
