@@ -1,0 +1,145 @@
+{
+  "sourceUrl": "https://blog.cloudflare.com/rss/",
+  "title": "Cloudflare Blog",
+  "description": "Technical deep dives, product updates, and insights from the teams that are helping to build a better Internet.",
+  "link": "https://blog.cloudflare.com/",
+  "items": [
+    {
+      "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+      "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "pubDate": "Tue, 15 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-15T13:00:00.000Z",
+      "content": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
+      "contentSnippet": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
+      "creator": "Bryan Becker",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M2H2Z9EEQXN77GRVF484P66A.01M2H2ZAMANYA3DTBA92G3WQ5X.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Give every teammate and agent the right level of access to your Workers",
+      "link": "https://blog.cloudflare.com/workers-granular-authorization/",
+      "pubDate": "Tue, 15 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-15T13:00:00.000Z",
+      "content": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely.",
+      "contentSnippet": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely.",
+      "creator": "Dina Kozlov",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01KW448A863P1CW4V1VXP9CBBR.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing automatic remediation policies with Cloudflare CASB",
+      "link": "https://blog.cloudflare.com/casb-policies/",
+      "pubDate": "Fri, 11 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-11T13:00:00.000Z",
+      "content": "Cloudflare CASB policies introduce a native automation engine built directly on the Cloudflare developer platform to remediate SaaS risks automatically. Security teams can now design event-driven logic to revoke risky file shares and send webhooks without manual intervention.",
+      "contentSnippet": "Cloudflare CASB policies introduce a native automation engine built directly on the Cloudflare developer platform to remediate SaaS risks automatically. Security teams can now design event-driven logic to revoke risky file shares and send webhooks without manual intervention.",
+      "creator": "Michael Leslie",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M2842WCZ10Q81ZNG6FHF2FAJ.01M2842X2Z3B513P6VHC1SXMTC.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+      "link": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+      "pubDate": "Thu, 10 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-10T13:00:00.000Z",
+      "content": "1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.",
+      "contentSnippet": "1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.",
+      "creator": "Sebastiaan Neuteboom",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M25DK32HZ1WQH3H12JRZ8W35.01M25DK70WYHHWWR2VQYE94TNP.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
+      "link": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
+      "pubDate": "Wed, 09 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-09T13:00:00.000Z",
+      "content": "Workers now enables Node.js compatibility by default, supports applications up to 64 mebibytes, and adds a URL-based module registry with import.meta, lazy compilation, shared code caches, and clearer errors.",
+      "contentSnippet": "Workers now enables Node.js compatibility by default, supports applications up to 64 mebibytes, and adds a URL-based module registry with import.meta, lazy compilation, shared code caches, and clearer errors.",
+      "creator": "Logan Gatlin",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M1WCDP58M0ZWWK4EQ5Z60396.01M1WCDPYM384QTHNEZA0WQ8W8.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
+      "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "pubDate": "Tue, 08 Sep 2026 13:10:00 GMT",
+      "isoDate": "2026-09-08T13:10:00.000Z",
+      "content": "Automatic Key Exchange probes TLS 1.3-capable customer origins to learn which key agreement algorithms they support. We then lead with the most secure algorithm when connecting to the origin, preferring post-quantum connections wherever the origin supports it. ",
+      "contentSnippet": "Automatic Key Exchange probes TLS 1.3-capable customer origins to learn which key agreement algorithms they support. We then lead with the most secure algorithm when connecting to the origin, preferring post-quantum connections wherever the origin supports it.",
+      "creator": "Suleman Ahmad",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M1PVTWFH1FTSY24GMGKMD4G2.01M1PVTXAKN3C2KME8M5NF4SS4.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+      "link": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+      "pubDate": "Thu, 03 Sep 2026 21:03:02 GMT",
+      "isoDate": "2026-09-03T21:03:02.000Z",
+      "content": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identify and patch the most critical threats first.",
+      "contentSnippet": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identify and patch the most critical threats first.",
+      "creator": "Ken Sanderson",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M1JDYW2RHXMJDDXS13K6VESF.01M1JDYX370D7EV4BHCDQS4C6J.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+      "link": "https://blog.cloudflare.com/cache-transcoding/",
+      "pubDate": "Tue, 01 Sep 2026 12:59:00 GMT",
+      "isoDate": "2026-09-01T12:59:00.000Z",
+      "content": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
+      "contentSnippet": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
+      "creator": "Aashi Patel",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M1DADS947G87BAG8BQJ5RZN6.01M1DADSZ25WXKD5DG1M70HJR8.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-15T21:23:34.179Z"
+}

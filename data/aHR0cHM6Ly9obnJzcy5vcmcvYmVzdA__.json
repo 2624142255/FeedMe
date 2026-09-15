@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Introducing System One Models and Jev",
+      "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "pubDate": "Tue, 15 Sep 2026 19:25:03 +0000",
+      "isoDate": "2026-09-15T19:25:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">https://typesafe.ai/blog/introducing-system-one-models-and-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717558\">https://news.ycombinator.com/item?id=49717558</a></p>\n<p>Points: 276</p>\n<p># Comments: 95</p>\n",
+      "contentSnippet": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev\nComments URL: https://news.ycombinator.com/item?id=49717558\nPoints: 276\n# Comments: 95",
+      "creator": "albelfio",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Java 27",
+      "link": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+      "pubDate": "Tue, 15 Sep 2026 13:13:43 +0000",
+      "isoDate": "2026-09-15T13:13:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/\">https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712041\">https://news.ycombinator.com/item?id=49712041</a></p>\n<p>Points: 281</p>\n<p># Comments: 252</p>\n",
+      "contentSnippet": "Article URL: https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/\nComments URL: https://news.ycombinator.com/item?id=49712041\nPoints: 281\n# Comments: 252",
+      "creator": "mkurz",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "link": "https://github.com/arnegiacomo/fugleramme",
+      "pubDate": "Tue, 15 Sep 2026 12:31:10 +0000",
+      "isoDate": "2026-09-15T12:31:10.000Z",
+      "content": "\n<p>See also: <i>Avian Visitors</i> - <a href=\"https://news.ycombinator.com/item?id=48343424\">https://news.ycombinator.com/item?id=48343424</a> - May 2026 (20 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49711544\">https://news.ycombinator.com/item?id=49711544</a></p>\n<p>Points: 1072</p>\n<p># Comments: 140</p>\n",
+      "contentSnippet": "See also: Avian Visitors - https://news.ycombinator.com/item?id=48343424 - May 2026 (20 comments)\nComments URL: https://news.ycombinator.com/item?id=49711544\nPoints: 1072\n# Comments: 140",
+      "creator": "arnemunthekaas",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "25 years of mass surveillance is enough",
+      "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "pubDate": "Tue, 15 Sep 2026 11:26:48 +0000",
+      "isoDate": "2026-09-15T11:26:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html\">https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710883\">https://news.ycombinator.com/item?id=49710883</a></p>\n<p>Points: 673</p>\n<p># Comments: 239</p>\n",
+      "contentSnippet": "Article URL: https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html\nComments URL: https://news.ycombinator.com/item?id=49710883\nPoints: 673\n# Comments: 239",
+      "creator": "iamnothere",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "pubDate": "Tue, 15 Sep 2026 10:22:46 +0000",
+      "isoDate": "2026-09-15T10:22:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c8ly49w9g1edo\">https://www.bbc.com/news/articles/c8ly49w9g1edo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710253\">https://news.ycombinator.com/item?id=49710253</a></p>\n<p>Points: 372</p>\n<p># Comments: 361</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.com/news/articles/c8ly49w9g1edo\nComments URL: https://news.ycombinator.com/item?id=49710253\nPoints: 372\n# Comments: 361",
+      "creator": "choult",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "I can't stop thinking about Papua New Guinea",
+      "link": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "pubDate": "Tue, 15 Sep 2026 06:16:24 +0000",
+      "isoDate": "2026-09-15T06:16:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua\">https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49708431\">https://news.ycombinator.com/item?id=49708431</a></p>\n<p>Points: 924</p>\n<p># Comments: 379</p>\n",
+      "contentSnippet": "Article URL: https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua\nComments URL: https://news.ycombinator.com/item?id=49708431\nPoints: 924\n# Comments: 379",
+      "creator": "networked",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Linux from Scratch",
+      "link": "https://www.linuxfromscratch.org/",
+      "pubDate": "Tue, 15 Sep 2026 04:15:23 +0000",
+      "isoDate": "2026-09-15T04:15:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.linuxfromscratch.org/\">https://www.linuxfromscratch.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707627\">https://news.ycombinator.com/item?id=49707627</a></p>\n<p>Points: 341</p>\n<p># Comments: 109</p>\n",
+      "contentSnippet": "Article URL: https://www.linuxfromscratch.org/\nComments URL: https://news.ycombinator.com/item?id=49707627\nPoints: 341\n# Comments: 109",
+      "creator": "sippingabonedry",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "US confirms for first time it has deployed space weapons",
+      "link": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "pubDate": "Tue, 15 Sep 2026 03:47:56 +0000",
+      "isoDate": "2026-09-15T03:47:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/ck790xg41ygro\">https://www.bbc.com/news/articles/ck790xg41ygro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707473\">https://news.ycombinator.com/item?id=49707473</a></p>\n<p>Points: 377</p>\n<p># Comments: 269</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.com/news/articles/ck790xg41ygro\nComments URL: https://news.ycombinator.com/item?id=49707473\nPoints: 377\n# Comments: 269",
+      "creator": "harporoeder",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-15T21:23:25.266Z"
+}
