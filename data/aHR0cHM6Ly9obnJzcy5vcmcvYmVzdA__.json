@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Laya the open source version of Jev",
+      "link": "https://laya.convaiinnovations.com/",
+      "pubDate": "Sat, 19 Sep 2026 10:46:58 +0000",
+      "isoDate": "2026-09-19T10:46:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://laya.convaiinnovations.com/\">https://laya.convaiinnovations.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765348\">https://news.ycombinator.com/item?id=49765348</a></p>\n<p>Points: 409</p>\n<p># Comments: 95</p>\n",
+      "contentSnippet": "Article URL: https://laya.convaiinnovations.com/\nComments URL: https://news.ycombinator.com/item?id=49765348\nPoints: 409\n# Comments: 95",
+      "creator": "nandakishor_ml",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "pubDate": "Sat, 19 Sep 2026 09:20:58 +0000",
+      "isoDate": "2026-09-19T09:20:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://john.hartnup.uk/2026/06/07/ai-event-posters.html\">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49764791\">https://news.ycombinator.com/item?id=49764791</a></p>\n<p>Points: 657</p>\n<p># Comments: 387</p>\n",
+      "contentSnippet": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html\nComments URL: https://news.ycombinator.com/item?id=49764791\nPoints: 657\n# Comments: 387",
+      "creator": "ereiamjh",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "pubDate": "Sat, 19 Sep 2026 05:48:50 +0000",
+      "isoDate": "2026-09-19T05:48:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\">https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763697\">https://news.ycombinator.com/item?id=49763697</a></p>\n<p>Points: 454</p>\n<p># Comments: 170</p>\n",
+      "contentSnippet": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\nComments URL: https://news.ycombinator.com/item?id=49763697\nPoints: 454\n# Comments: 170",
+      "creator": "emigre",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "San Francisco Onion Futures Company",
+      "link": "https://onionfutures.com/",
+      "pubDate": "Sat, 19 Sep 2026 04:23:30 +0000",
+      "isoDate": "2026-09-19T04:23:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://onionfutures.com/\">https://onionfutures.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763296\">https://news.ycombinator.com/item?id=49763296</a></p>\n<p>Points: 285</p>\n<p># Comments: 100</p>\n",
+      "contentSnippet": "Article URL: https://onionfutures.com/\nComments URL: https://news.ycombinator.com/item?id=49763296\nPoints: 285\n# Comments: 100",
+      "creator": "z-mach9",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "link": "https://code.claude.com/docs/en/changelog",
+      "pubDate": "Fri, 18 Sep 2026 21:00:32 +0000",
+      "isoDate": "2026-09-18T21:00:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://code.claude.com/docs/en/changelog\">https://code.claude.com/docs/en/changelog</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49760187\">https://news.ycombinator.com/item?id=49760187</a></p>\n<p>Points: 694</p>\n<p># Comments: 256</p>\n",
+      "contentSnippet": "Article URL: https://code.claude.com/docs/en/changelog\nComments URL: https://news.ycombinator.com/item?id=49760187\nPoints: 694\n# Comments: 256",
+      "creator": "datadrivenangel",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "pubDate": "Fri, 18 Sep 2026 20:02:54 +0000",
+      "isoDate": "2026-09-18T20:02:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899\">https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49759466\">https://news.ycombinator.com/item?id=49759466</a></p>\n<p>Points: 314</p>\n<p># Comments: 107</p>\n",
+      "contentSnippet": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899\nComments URL: https://news.ycombinator.com/item?id=49759466\nPoints: 314\n# Comments: 107",
+      "creator": "throw7",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "pubDate": "Fri, 18 Sep 2026 19:03:09 +0000",
+      "isoDate": "2026-09-18T19:03:09.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117282080803799576\">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758736\">https://news.ycombinator.com/item?id=49758736</a></p>\n<p>Points: 961</p>\n<p># Comments: 525</p>\n",
+      "contentSnippet": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576\nComments URL: https://news.ycombinator.com/item?id=49758736\nPoints: 961\n# Comments: 525",
+      "creator": "theanonymousone",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "pubDate": "Fri, 18 Sep 2026 18:51:46 +0000",
+      "isoDate": "2026-09-18T18:51:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/\">https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758580\">https://news.ycombinator.com/item?id=49758580</a></p>\n<p>Points: 410</p>\n<p># Comments: 87</p>\n",
+      "contentSnippet": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/\nComments URL: https://news.ycombinator.com/item?id=49758580\nPoints: 410\n# Comments: 87",
+      "creator": "f311a",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-19T15:54:07.663Z"
+}

@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://lobste.rs/rss",
+  "title": "Lobsters",
+  "description": "",
+  "link": "https://lobste.rs/",
+  "items": [
+    {
+      "title": "Don’t Let Architecture Astronauts Scare You (2001)",
+      "link": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
+      "pubDate": "Sat, 19 Sep 2026 07:08:52 -0500",
+      "isoDate": "2026-09-19T12:08:52.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/3xfxnj/don_t_let_architecture_astronauts_scare\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "joelonsoftware.com via koala",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The scourge of x86 emulation",
+      "link": "https://fex-emu.com/Scourge-of-emulation/",
+      "pubDate": "Sat, 19 Sep 2026 00:01:05 -0500",
+      "isoDate": "2026-09-19T05:01:05.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/iq6w6l/scourge_x86_emulation\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "fex-emu.com via videah",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+      "link": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+      "pubDate": "Sat, 19 Sep 2026 07:38:11 -0500",
+      "isoDate": "2026-09-19T12:38:11.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/hmkk2c/kicking_tires_on_jev_typesafe_s_system_one\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "gist.github.com by ndyg",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Typst makes big strides",
+      "link": "https://lwn.net/Articles/1092993/",
+      "pubDate": "Fri, 18 Sep 2026 08:14:17 -0500",
+      "isoDate": "2026-09-18T13:14:17.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/j4oyxa/typst_makes_big_strides\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "lwn.net via isuffix",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "pubDate": "Sat, 19 Sep 2026 03:44:38 -0500",
+      "isoDate": "2026-09-19T08:44:38.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/ywnsld/gpt_6_astra_solves_wwi_german_radio_cipher\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "prinzai.com via rajtilakjee",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "I don't like passkeys",
+      "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "pubDate": "Fri, 18 Sep 2026 07:52:18 -0500",
+      "isoDate": "2026-09-18T12:52:18.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/4a7qly/i_don_t_like_passkeys\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "hawksley.dev via eduard",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "There's no point at which turning your brain off will work",
+      "link": "https://danluu.com/brain-off/",
+      "pubDate": "Fri, 18 Sep 2026 12:15:40 -0500",
+      "isoDate": "2026-09-18T17:15:40.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/dd6if1/there_s_no_point_at_which_turning_your\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "danluu.com via binjip978",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Write while learning",
+      "link": "https://purplesyringa.moe/blog/write-while-learning/",
+      "pubDate": "Sat, 19 Sep 2026 01:56:24 -0500",
+      "isoDate": "2026-09-19T06:56:24.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/ukzxid/write_while_learning\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "purplesyringa.moe via kreeft",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-19T15:54:09.711Z"
+}

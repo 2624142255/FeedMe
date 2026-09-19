@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/24815a7670b5e079f933444be312df33ef348e19df0cd90648dd47b777f5ee81/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 13320<br>Forks: 714",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 13320\nForks: 714",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/57fbac2136167658361cf8c1526ba56ee1de7d32d2e67e42b61ddd68a0c289a6/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: TypeScript<br>Stars: 146234<br>Forks: 23758",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: TypeScript\nStars: 146234\nForks: 23758",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 36540<br>Forks: 2604",
+      "contentSnippet": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 36540\nForks: 2604",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/269e2692f4fe516dc6fa8d537e9434727c9dd1cf182edf0334e05187b0c18324/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 261921<br>Forks: 39192",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 261921\nForks: 39192",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Tencent/BrowserSkill",
+      "link": "https://github.com/Tencent/BrowserSkill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/904cc6d195cbee75f08b2caac400f2f9d0433a4268a8ec8ada46a9672dc20085/Tencent/BrowserSkill\" referrerpolicy=\"no-referrer\"><br>Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.<br><br>Language: TypeScript<br>Stars: 5214<br>Forks: 362",
+      "contentSnippet": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.\nLanguage: TypeScript\nStars: 5214\nForks: 362",
+      "creator": "Tencent",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/81e451230dd61eda6783084fd5e278828cdc180b6ba08bf210ca9f39844462b7/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 96333<br>Forks: 10181",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 96333\nForks: 10181",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "TencentCloud/Octop",
+      "link": "https://github.com/TencentCloud/Octop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b33788599b8c063b152466b5768a9bfe85926202160d75c223fb49e781940092/TencentCloud/Octop\" referrerpolicy=\"no-referrer\"><br>A smarter, self-hosted AI assistant — multi-user, multi-agent.<br><br>Language: Python<br>Stars: 3915<br>Forks: 403",
+      "contentSnippet": "A smarter, self-hosted AI assistant — multi-user, multi-agent.\nLanguage: Python\nStars: 3915\nForks: 403",
+      "creator": "TencentCloud",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Fission-AI/OpenSpec",
+      "link": "https://github.com/Fission-AI/OpenSpec",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4ddc12ec391d315bb0f5a9d11d5c40c496203da7935199d276ca8d1d067db76c/Fission-AI/OpenSpec\" referrerpolicy=\"no-referrer\"><br>Spec-driven development (SDD) for AI coding assistants.<br><br>Language: TypeScript<br>Stars: 69284<br>Forks: 4748",
+      "contentSnippet": "Spec-driven development (SDD) for AI coding assistants.\nLanguage: TypeScript\nStars: 69284\nForks: 4748",
+      "creator": "Fission-AI",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-18T20:56:24.209Z"
+}
