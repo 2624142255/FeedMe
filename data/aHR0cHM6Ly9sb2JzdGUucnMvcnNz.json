@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://lobste.rs/rss",
+  "title": "Lobsters",
+  "description": "",
+  "link": "https://lobste.rs/",
+  "items": [
+    {
+      "title": "Commodified Intelligence",
+      "link": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+      "pubDate": "Fri, 25 Sep 2026 13:24:29 -0500",
+      "isoDate": "2026-09-25T18:24:29.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/nidcls/commodified_intelligence\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "herecomesthemoon.net by mond",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "If we do not stop to help each other, what do we become?",
+      "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "pubDate": "Sat, 26 Sep 2026 06:02:48 -0500",
+      "isoDate": "2026-09-26T11:02:48.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "blog.codinghorror.com via j11g",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The state of SIMD in Rust in 2026",
+      "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "pubDate": "Sat, 26 Sep 2026 03:28:50 -0500",
+      "isoDate": "2026-09-26T08:28:50.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/iotaty/state_simd_rust_2026\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "shnatsel.github.io via janerik",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Infecting the Steam Link with NixOS",
+      "link": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+      "pubDate": "Sat, 26 Sep 2026 08:45:59 -0500",
+      "isoDate": "2026-09-26T13:45:59.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "feyor.sh by Shorden",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "What About Rails?",
+      "link": "https://jardo.dev/what-about-rails",
+      "pubDate": "Fri, 25 Sep 2026 09:44:57 -0500",
+      "isoDate": "2026-09-25T14:44:57.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/rvvqos/what_about_rails\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "jardo.dev via nick4",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Go concurrency distilled",
+      "link": "https://antonz.org/go-concurrency-distilled/",
+      "pubDate": "Sat, 26 Sep 2026 07:14:01 -0500",
+      "isoDate": "2026-09-26T12:14:01.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/rucvky/go_concurrency_distilled\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "antonz.org via cgrinds",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Keep if clauses side-effect free",
+      "link": "https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html",
+      "pubDate": "Fri, 25 Sep 2026 22:45:44 -0500",
+      "isoDate": "2026-09-26T03:45:44.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/buroqq/keep_if_clauses_side_effect_free\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "teamten.com via gavinmorrow",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Goodbye Google",
+      "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+      "pubDate": "Fri, 25 Sep 2026 00:51:12 -0500",
+      "isoDate": "2026-09-25T05:51:12.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/sxlf4a/goodbye_google\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "robert.ocallahan.org via classichasclass",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T16:25:46.980Z"
+}

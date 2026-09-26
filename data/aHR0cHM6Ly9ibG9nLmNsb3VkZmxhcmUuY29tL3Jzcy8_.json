@@ -1,0 +1,145 @@
+{
+  "sourceUrl": "https://blog.cloudflare.com/rss/",
+  "title": "Cloudflare Blog",
+  "description": "Technical deep dives, product updates, and insights from the teams that are helping to build a better Internet.",
+  "link": "https://blog.cloudflare.com/",
+  "items": [
+    {
+      "title": "Agents can now set up your website’s security with Turnstile Spin",
+      "link": "https://blog.cloudflare.com/turnstile-spin/",
+      "pubDate": "Fri, 25 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-25T13:00:00.000Z",
+      "content": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.",
+      "contentSnippet": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.",
+      "creator": "Jules Lemee",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3CQMQWGC7WBK8ZR7DG13PFE.01M3CQMRMEBSVS7GAD6GNHZ9JD.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+      "link": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+      "pubDate": "Thu, 24 Sep 2026 15:00:00 GMT",
+      "isoDate": "2026-09-24T15:00:00.000Z",
+      "content": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to remediate it.\n",
+      "contentSnippet": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to remediate it.",
+      "creator": "Rushil Mehra",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M38DQFQRTYYSM43H964E1E3F.01M38DQGBNEE0N3C6WAXNMGS0H.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "link": "https://blog.cloudflare.com/vary-support/",
+      "pubDate": "Tue, 22 Sep 2026 14:04:31 GMT",
+      "isoDate": "2026-09-22T14:04:31.000Z",
+      "content": "Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache when the variation is too unpredictable.",
+      "contentSnippet": "Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache when the variation is too unpredictable.",
+      "creator": "Alex Krivit",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M2RH1BWX8086HXJT21CBD9PE.01M2RH1CGYTGNVA73ZP6Z4GJBR.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Worker Previews: Isolated preview environments for every change your agent makes",
+      "link": "https://blog.cloudflare.com/worker-previews/",
+      "pubDate": "Tue, 22 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-22T13:00:00.000Z",
+      "content": "Worker Previews gives every branch its own URL, configuration, state, and observability, so you and your agents can test changes in parallel without affecting production.",
+      "contentSnippet": "Worker Previews gives every branch its own URL, configuration, state, and observability, so you and your agents can test changes in parallel without affecting production.",
+      "creator": "Yomna Shousha",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M31XD8PJ2SDSWTWFPP0GSF3Z.01M31XD9GVMHJJD2RAVT50XFTF.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Python Workers are now generally available",
+      "link": "https://blog.cloudflare.com/python-workers-ga/",
+      "pubDate": "Mon, 21 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-21T13:00:00.000Z",
+      "content": "Python Workers allow developers to run Python web frameworks and AI orchestration libraries natively in the Cloudflare Workers runtime. You can seamlessly integrate with Cloudflare's ecosystem including D1, R2, and Workers AI without writing any JavaScript glue code.\n",
+      "contentSnippet": "Python Workers allow developers to run Python web frameworks and AI orchestration libraries natively in the Cloudflare Workers runtime. You can seamlessly integrate with Cloudflare's ecosystem including D1, R2, and Workers AI without writing any JavaScript glue code.",
+      "creator": "Gyeongjae Choi",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M2V34BA05P39V3QCVSXF412X.01M2V34C4FZEN00M4XFVXH4W2K.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Saving another 100TB of RAM with math (and Rust)",
+      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "pubDate": "Fri, 18 Sep 2026 17:23:58 GMT",
+      "isoDate": "2026-09-18T17:23:58.000Z",
+      "content": "Cloudflare's global network is immense but not limitless. As we look for small ways to trim our resource usage, we sometimes get lucky and we can cut significantly more. Here’s how we reduced one of our Pingora-based service's RAM usage with statistics.",
+      "contentSnippet": "Cloudflare's global network is immense but not limitless. As we look for small ways to trim our resource usage, we sometimes get lucky and we can cut significantly more. Here’s how we reduced one of our Pingora-based service's RAM usage with statistics.",
+      "creator": "Kevin Guthrie",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M2PFYDRYA8R4X8XVQJYTED8Q.01M2PFYEWJNSK872MVT1JSCHA4.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+      "link": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
+      "pubDate": "Wed, 16 Sep 2026 20:06:17 GMT",
+      "isoDate": "2026-09-16T20:06:17.000Z",
+      "content": "A modern storefront can look healthy while malicious JavaScript quietly siphons revenue, hijacks clicks, or rewrites analytics. See how Cloudflare's machine learning models surface evasive client-side attacks for analyst investigation.\n",
+      "contentSnippet": "A modern storefront can look healthy while malicious JavaScript quietly siphons revenue, hijacks clicks, or rewrites analytics. See how Cloudflare's machine learning models surface evasive client-side attacks for analyst investigation.",
+      "creator": "Juan Miguel Cejuela (Juanmi)",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M2KND4WW7J8M4KCQSHWGS28X.01M2KND6MD5RWBZG4CTV12T33B.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+      "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "pubDate": "Tue, 15 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-15T13:00:00.000Z",
+      "content": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
+      "contentSnippet": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
+      "creator": "Bryan Becker",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M2H2Z9EEQXN77GRVF484P66A.01M2H2ZAMANYA3DTBA92G3WQ5X.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T16:25:50.568Z"
+}
