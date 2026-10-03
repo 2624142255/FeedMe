@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Extra Big Ass Intelligence",
+      "link": "https://www.extrabigassintelligence.com/",
+      "pubDate": "Sat, 03 Oct 2026 03:19:10 +0000",
+      "isoDate": "2026-10-03T03:19:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.extrabigassintelligence.com/\">https://www.extrabigassintelligence.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941114\">https://news.ycombinator.com/item?id=49941114</a></p>\n<p>Points: 393</p>\n<p># Comments: 87</p>\n",
+      "contentSnippet": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 393\n# Comments: 87",
+      "creator": "34679",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "link": "https://www.newgrounds.com/",
+      "pubDate": "Sat, 03 Oct 2026 00:55:25 +0000",
+      "isoDate": "2026-10-03T00:55:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.newgrounds.com/\">https://www.newgrounds.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49940394\">https://news.ycombinator.com/item?id=49940394</a></p>\n<p>Points: 354</p>\n<p># Comments: 100</p>\n",
+      "contentSnippet": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 354\n# Comments: 100",
+      "creator": "azhenley",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Zig v0.17.0",
+      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "pubDate": "Fri, 02 Oct 2026 20:56:36 +0000",
+      "isoDate": "2026-10-02T20:56:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ziglang.org/download/0.17.0/release-notes.html\">https://ziglang.org/download/0.17.0/release-notes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938521\">https://news.ycombinator.com/item?id=49938521</a></p>\n<p>Points: 256</p>\n<p># Comments: 187</p>\n",
+      "contentSnippet": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 256\n# Comments: 187",
+      "creator": "ErenayDev",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "link": "https://developer.apple.com/news/?id=p6zjojqw",
+      "pubDate": "Fri, 02 Oct 2026 19:37:01 +0000",
+      "isoDate": "2026-10-02T19:37:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/news/?id=p6zjojqw\">https://developer.apple.com/news/?id=p6zjojqw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937631\">https://news.ycombinator.com/item?id=49937631</a></p>\n<p>Points: 248</p>\n<p># Comments: 167</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 248\n# Comments: 167",
+      "creator": "notfirstpost",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Apple Pass Designer",
+      "link": "https://developer.apple.com/pass-designer/",
+      "pubDate": "Fri, 02 Oct 2026 19:06:56 +0000",
+      "isoDate": "2026-10-02T19:06:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/pass-designer/\">https://developer.apple.com/pass-designer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937276\">https://news.ycombinator.com/item?id=49937276</a></p>\n<p>Points: 497</p>\n<p># Comments: 299</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 497\n# Comments: 299",
+      "creator": "soheilpro",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
+      "pubDate": "Fri, 02 Oct 2026 18:01:16 +0000",
+      "isoDate": "2026-10-02T18:01:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://dwarfstar.sh/\">https://dwarfstar.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49936575\">https://news.ycombinator.com/item?id=49936575</a></p>\n<p>Points: 298</p>\n<p># Comments: 89</p>\n",
+      "contentSnippet": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 298\n# Comments: 89",
+      "creator": "fibo",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "pubDate": "Fri, 02 Oct 2026 14:22:12 +0000",
+      "isoDate": "2026-10-02T14:22:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://yuka.dev/blog-2026-10-02-linux-m4.html\">https://yuka.dev/blog-2026-10-02-linux-m4.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933869\">https://news.ycombinator.com/item?id=49933869</a></p>\n<p>Points: 251</p>\n<p># Comments: 175</p>\n",
+      "contentSnippet": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 251\n# Comments: 175",
+      "creator": "signa11",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "pubDate": "Fri, 02 Oct 2026 14:11:24 +0000",
+      "isoDate": "2026-10-02T14:11:24.000Z",
+      "content": "\n<p><a href=\"https://www.nature.com/articles/s41586-026-11036-y\" rel=\"nofollow\">https://www.nature.com/articles/s41586-026-11036-y</a><p><a href=\"https://arxiv.org/abs/2511.07312\" rel=\"nofollow\">https://arxiv.org/abs/2511.07312</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933740\">https://news.ycombinator.com/item?id=49933740</a></p>\n<p>Points: 254</p>\n<p># Comments: 120</p>\n",
+      "contentSnippet": "https://www.nature.com/articles/s41586-026-11036-y\nhttps://arxiv.org/abs/2511.07312\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 254\n# Comments: 120",
+      "creator": "PaulHoule",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T16:19:36.358Z"
+}

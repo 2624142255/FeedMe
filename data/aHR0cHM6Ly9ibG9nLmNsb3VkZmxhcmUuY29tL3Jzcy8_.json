@@ -1,0 +1,145 @@
+{
+  "sourceUrl": "https://blog.cloudflare.com/rss/",
+  "title": "Cloudflare Blog",
+  "description": "Technical deep dives, product updates, and insights from the teams that are helping to build a better Internet.",
+  "link": "https://blog.cloudflare.com/",
+  "items": [
+    {
+      "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+      "link": "https://blog.cloudflare.com/streamline/",
+      "pubDate": "Fri, 02 Oct 2026 16:13:45 GMT",
+      "isoDate": "2026-10-02T16:13:45.000Z",
+      "content": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine.",
+      "contentSnippet": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine.",
+      "creator": "Willi Geiger",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XKCAN8X5Q5KQ1Q5EW20NBG.01M3XKCB43AH4EZPQE0QQ7MNND.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Web Search API via AI Gateway",
+      "link": "https://blog.cloudflare.com/introducing-web-search-api/",
+      "pubDate": "Fri, 02 Oct 2026 13:28:10 GMT",
+      "isoDate": "2026-10-02T13:28:10.000Z",
+      "content": "Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings.",
+      "contentSnippet": "Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings.",
+      "creator": "Michelle Chen",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XMA3KN5CDQCSF0YHZ0WFBH.01M3XMA452ZT41JBXKRPY1HH3F.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "8 major updates to Cloudflare Observability",
+      "link": "https://blog.cloudflare.com/one-observability-platform/",
+      "pubDate": "Fri, 02 Oct 2026 13:00:00 GMT",
+      "isoDate": "2026-10-02T13:00:00.000Z",
+      "content": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
+      "contentSnippet": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
+      "creator": "Nevi Shah",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XHE6D45CDHQVM71QYA6EEJ.01M3XHE6YHC44V1DZB0VG3DCGV.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
+      "link": "https://blog.cloudflare.com/cloudflare-tracing/",
+      "pubDate": "Fri, 02 Oct 2026 13:00:00 GMT",
+      "isoDate": "2026-10-02T13:00:00.000Z",
+      "content": "Cloudflare Traces shows how a request moves through security rules, transformations, cache, routing, Workers, and your origin, then follows it across services running anywhere in your stack.",
+      "contentSnippet": "Cloudflare Traces shows how a request moves through security rules, transformations, cache, routing, Workers, and your origin, then follows it across services running anywhere in your stack.",
+      "creator": "Mar Witek",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XE9TZRDPWVKPPQNAVJDCYT.01M3XE9W5HREEF8Q70M7G034M2.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
+      "link": "https://blog.cloudflare.com/enterprise-for-all-update/",
+      "pubDate": "Fri, 02 Oct 2026 13:00:00 GMT",
+      "isoDate": "2026-10-02T13:00:00.000Z",
+      "content": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, how we dogfood these tools internally, and what is coming next.",
+      "contentSnippet": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, how we dogfood these tools internally, and what is coming next.",
+      "creator": "Oliver Roup",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XD0DHYHB54G3RT6GBMY2W5.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
+      "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "pubDate": "Fri, 02 Oct 2026 13:00:00 GMT",
+      "isoDate": "2026-10-02T13:00:00.000Z",
+      "content": "We’re announcing the closed beta of a self-serve Cloudflare OHTTP Gateway. We’re also renaming our Privacy Gateway to Cloudflare OHTTP Relay to better distinguish the two products.",
+      "contentSnippet": "We’re announcing the closed beta of a self-serve Cloudflare OHTTP Gateway. We’re also renaming our Privacy Gateway to Cloudflare OHTTP Relay to better distinguish the two products.",
+      "creator": "Lara Schull",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3WRXEHESBYZBGWPN9T2Z19C.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Follow the thread: a new dashboard to investigate account abuse",
+      "link": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+      "pubDate": "Fri, 02 Oct 2026 13:00:00 GMT",
+      "isoDate": "2026-10-02T13:00:00.000Z",
+      "content": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
+      "contentSnippet": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
+      "creator": "Nicole Justus",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Y5S9YWA3J6HWBGZPXJB4KY.01M3Y5SAP93PZ8TV3HFDNVRWHS.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
+      "link": "https://blog.cloudflare.com/protected-quick-tunnels/",
+      "pubDate": "Fri, 02 Oct 2026 13:00:00 GMT",
+      "isoDate": "2026-10-02T13:00:00.000Z",
+      "content": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side.",
+      "contentSnippet": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side.",
+      "creator": "Nikita Cano",
+      "enclosure": {
+        "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3WEQNPRWNJ6R5MEB2300BRQ.png",
+        "type": "image/png"
+      },
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T16:19:41.840Z"
+}
