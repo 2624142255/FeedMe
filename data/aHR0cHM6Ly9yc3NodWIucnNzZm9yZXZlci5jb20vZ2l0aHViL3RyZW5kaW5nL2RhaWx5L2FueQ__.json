@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "morluto/rea",
+      "link": "https://github.com/morluto/rea",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc\" referrerpolicy=\"no-referrer\"><br>Reverse engineer anything with agents, from app behavior down to native binaries.<br><br>Language: TypeScript<br>Stars: 61126<br>Forks: 12239",
+      "contentSnippet": "Reverse engineer anything with agents, from app behavior down to native binaries.\nLanguage: TypeScript\nStars: 61126\nForks: 12239",
+      "creator": "morluto",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "boykopovar/AnyPS5",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e0d46cf2885c92079dd1d945d51db10e879e3c494d68eb61c92d15228acd27bb/boykopovar/AnyPS5\" referrerpolicy=\"no-referrer\"><br>Tool for automatic PS5 executables porting to Linux and Windows<br><br>Language: C++<br>Stars: 24578<br>Forks: 2029",
+      "contentSnippet": "Tool for automatic PS5 executables porting to Linux and Windows\nLanguage: C++\nStars: 24578\nForks: 2029",
+      "creator": "boykopovar",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "storytold/artcraft",
+      "link": "https://github.com/storytold/artcraft",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/edd28468d0933d5ca7ae24c8fe22ec5ef6c97a90a3f5e37889a7c4408b99d699/storytold/artcraft\" referrerpolicy=\"no-referrer\"><br>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers<br><br>Language: Rust<br>Stars: 12971<br>Forks: 1995",
+      "contentSnippet": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\nLanguage: Rust\nStars: 12971\nForks: 1995",
+      "creator": "storytold",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ee9fa4fe7fcabca6f1657f7f1dd3a7b4ab143bf1c7a386b8d364f0a4a89e23d9/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 48480<br>Forks: 3062",
+      "contentSnippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 48480\nForks: 3062",
+      "creator": "cathrynlavery",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/edd28468d0933d5ca7ae24c8fe22ec5ef6c97a90a3f5e37889a7c4408b99d699/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 26058<br>Forks: 1879",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 26058\nForks: 1879",
+      "creator": "mksglu",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e51494f5a275c91c3c8df7d84e12bdf9741a178979a01e8986ba8f45e10202b0/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 283652<br>Forks: 23760",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 283652\nForks: 23760",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "flutter/flutter",
+      "link": "https://github.com/flutter/flutter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/31792824/fb7e5700-6ccc-11e9-83fe-f602e1e1a9f1\" referrerpolicy=\"no-referrer\"><br>Flutter makes it easy and fast to build beautiful apps for mobile and beyond<br><br>Language: Dart<br>Stars: 179289<br>Forks: 33534",
+      "contentSnippet": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond\nLanguage: Dart\nStars: 179289\nForks: 33534",
+      "creator": "flutter",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "tensorflow/tensorflow",
+      "link": "https://github.com/tensorflow/tensorflow",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/608d8ba7a801b7b8cb7e80f4da7f6ae0798c97d7acc41ec73423e7fd8d052c4c/tensorflow/tensorflow\" referrerpolicy=\"no-referrer\"><br>An Open Source Machine Learning Framework for Everyone<br><br>Language: C++<br>Stars: 200598<br>Forks: 78885",
+      "contentSnippet": "An Open Source Machine Learning Framework for Everyone\nLanguage: C++\nStars: 200598\nForks: 78885",
+      "creator": "tensorflow",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T12:35:19.758Z"
+}

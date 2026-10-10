@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "REA Reverse – Engineer Anything",
+      "link": "https://rea.tools/",
+      "pubDate": "Sat, 10 Oct 2026 00:37:07 +0000",
+      "isoDate": "2026-10-10T00:37:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://rea.tools/\">https://rea.tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028275\">https://news.ycombinator.com/item?id=50028275</a></p>\n<p>Points: 477</p>\n<p># Comments: 193</p>\n",
+      "contentSnippet": "Article URL: https://rea.tools/\nComments URL: https://news.ycombinator.com/item?id=50028275\nPoints: 477\n# Comments: 193",
+      "creator": "modinfo",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "pubDate": "Fri, 09 Oct 2026 21:06:59 +0000",
+      "isoDate": "2026-10-09T21:06:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306\">https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50026555\">https://news.ycombinator.com/item?id=50026555</a></p>\n<p>Points: 598</p>\n<p># Comments: 324</p>\n",
+      "contentSnippet": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306\nComments URL: https://news.ycombinator.com/item?id=50026555\nPoints: 598\n# Comments: 324",
+      "creator": "gumby",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "No Man Is an Island",
+      "link": "https://borretti.me/article/no-man-is-an-island",
+      "pubDate": "Fri, 09 Oct 2026 20:04:00 +0000",
+      "isoDate": "2026-10-09T20:04:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://borretti.me/article/no-man-is-an-island\">https://borretti.me/article/no-man-is-an-island</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50025935\">https://news.ycombinator.com/item?id=50025935</a></p>\n<p>Points: 296</p>\n<p># Comments: 192</p>\n",
+      "contentSnippet": "Article URL: https://borretti.me/article/no-man-is-an-island\nComments URL: https://news.ycombinator.com/item?id=50025935\nPoints: 296\n# Comments: 192",
+      "creator": "zetalyrae",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "link": "https://carrierexplode.com/",
+      "pubDate": "Fri, 09 Oct 2026 18:10:55 +0000",
+      "isoDate": "2026-10-09T18:10:55.000Z",
+      "content": "\n<p>Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.<p>carrier-explode also contains decoders and explanations for all the common baseband configurations, etc.<p>There’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024499\">https://news.ycombinator.com/item?id=50024499</a></p>\n<p>Points: 343</p>\n<p># Comments: 42</p>\n",
+      "contentSnippet": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.\ncarrier-explode also contains decoders and explanations for all the common baseband configurations, etc.\nThere’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups.\nComments URL: https://news.ycombinator.com/item?id=50024499\nPoints: 343\n# Comments: 42",
+      "creator": "simplyalec",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "link": "https://typesafe.ai/blog/series-ai",
+      "pubDate": "Fri, 09 Oct 2026 17:02:31 +0000",
+      "isoDate": "2026-10-09T17:02:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://typesafe.ai/blog/series-ai\">https://typesafe.ai/blog/series-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50023450\">https://news.ycombinator.com/item?id=50023450</a></p>\n<p>Points: 382</p>\n<p># Comments: 294</p>\n",
+      "contentSnippet": "Article URL: https://typesafe.ai/blog/series-ai\nComments URL: https://news.ycombinator.com/item?id=50023450\nPoints: 382\n# Comments: 294",
+      "creator": "tosh",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "link": "https://minesweeper.mikelacher.com/",
+      "pubDate": "Fri, 09 Oct 2026 15:51:05 +0000",
+      "isoDate": "2026-10-09T15:51:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://minesweeper.mikelacher.com/\">https://minesweeper.mikelacher.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50022292\">https://news.ycombinator.com/item?id=50022292</a></p>\n<p>Points: 1054</p>\n<p># Comments: 204</p>\n",
+      "contentSnippet": "Article URL: https://minesweeper.mikelacher.com/\nComments URL: https://news.ycombinator.com/item?id=50022292\nPoints: 1054\n# Comments: 204",
+      "creator": "robin_reala",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Python 3.15",
+      "link": "https://www.python.org/downloads/release/python-3150/",
+      "pubDate": "Fri, 09 Oct 2026 14:35:42 +0000",
+      "isoDate": "2026-10-09T14:35:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.python.org/downloads/release/python-3150/\">https://www.python.org/downloads/release/python-3150/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021127\">https://news.ycombinator.com/item?id=50021127</a></p>\n<p>Points: 297</p>\n<p># Comments: 102</p>\n",
+      "contentSnippet": "Article URL: https://www.python.org/downloads/release/python-3150/\nComments URL: https://news.ycombinator.com/item?id=50021127\nPoints: 297\n# Comments: 102",
+      "creator": "ngoldbaum",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+      "link": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
+      "pubDate": "Fri, 09 Oct 2026 14:31:54 +0000",
+      "isoDate": "2026-10-09T14:31:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/\">https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021066\">https://news.ycombinator.com/item?id=50021066</a></p>\n<p>Points: 489</p>\n<p># Comments: 489</p>\n",
+      "contentSnippet": "Article URL: https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/\nComments URL: https://news.ycombinator.com/item?id=50021066\nPoints: 489\n# Comments: 489",
+      "creator": "poly2it",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T12:35:10.396Z"
+}
