@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://lobste.rs/rss",
+  "title": "Lobsters",
+  "description": "",
+  "link": "https://lobste.rs/",
+  "items": [
+    {
+      "title": "Introducing Firefox Enterprise",
+      "link": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+      "pubDate": "Wed, 14 Oct 2026 06:06:48 -0500",
+      "isoDate": "2026-10-14T11:06:48.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "blog.mozilla.org via viccuad",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "What I Self-Host | Aspirational Self Hosting Guide",
+      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "pubDate": "Wed, 14 Oct 2026 10:32:48 -0500",
+      "isoDate": "2026-10-14T15:32:48.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/j4tlzg/what_i_self_host_aspirational_self\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "viceconsole.fyi via tonymet",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Plasma 6.8 released (KDE's 30th birthday)",
+      "link": "https://kde.org/announcements/plasma/6/6.8.0/",
+      "pubDate": "Wed, 14 Oct 2026 06:29:51 -0500",
+      "isoDate": "2026-10-14T11:29:51.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "kde.org via joshsharp",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Fancy Curl Sites",
+      "link": "https://nytpu.com/gemlog/2026-03-18",
+      "pubDate": "Wed, 14 Oct 2026 01:24:41 -0500",
+      "isoDate": "2026-10-14T06:24:41.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/zitobg/fancy_curl_sites\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "nytpu.com via seb",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Anthropic's Scion is heavily inspired by Mononoke · sunshowers",
+      "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "pubDate": "Wed, 14 Oct 2026 15:56:59 -0500",
+      "isoDate": "2026-10-14T20:56:59.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "sunshowers.io via mitsuhiko",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Factor 0.102 now available",
+      "link": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html",
+      "pubDate": "Wed, 14 Oct 2026 08:42:39 -0500",
+      "isoDate": "2026-10-14T13:42:39.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/a4ljnh/factor_0_102_now_available\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "re.factorcode.org via toastal",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "pubDate": "Wed, 14 Oct 2026 02:54:56 -0500",
+      "isoDate": "2026-10-14T07:54:56.000Z",
+      "content": "<p>Video showing an implanted device: <a href=\"https://www.youtube.com/watch?v=Nf4FEFlgv3Q\" rel=\"ugc\">https://www.youtube.com/watch?v=Nf4FEFlgv3Q</a></p>\n<p><a href=\"https://lobste.rs/s/cwota8/ledger_confirms_spy_chip_implant_behind\">Comments</a></p>",
+      "contentSnippet": "Video showing an implanted device: https://www.youtube.com/watch?v=Nf4FEFlgv3Q\nComments",
+      "creator": "bleepingcomputer.com via csomar",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "yet another place where a linux man page is inaccurate",
+      "link": "https://sebsite.pw/w/20261014-initstate.html",
+      "pubDate": "Wed, 14 Oct 2026 06:18:09 -0500",
+      "isoDate": "2026-10-14T11:18:09.000Z",
+      "content": "<p><a href=\"https://lobste.rs/s/tsjuje/yet_another_place_where_linux_man_page_is\">Comments</a></p>",
+      "contentSnippet": "Comments",
+      "creator": "sebsite.pw via nutmeg",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-14T21:42:57.643Z"
+}

@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Things to know if you get cancer in 2026",
+      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "pubDate": "Wed, 14 Oct 2026 19:26:30 +0000",
+      "isoDate": "2026-10-14T19:26:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/\">https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093568\">https://news.ycombinator.com/item?id=50093568</a></p>\n<p>Points: 259</p>\n<p># Comments: 43</p>\n",
+      "contentSnippet": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/\nComments URL: https://news.ycombinator.com/item?id=50093568\nPoints: 259\n# Comments: 43",
+      "creator": "jjmaxwell4",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "pubDate": "Wed, 14 Oct 2026 17:45:23 +0000",
+      "isoDate": "2026-10-14T17:45:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\">https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50091788\">https://news.ycombinator.com/item?id=50091788</a></p>\n<p>Points: 741</p>\n<p># Comments: 347</p>\n",
+      "contentSnippet": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\nComments URL: https://news.ycombinator.com/item?id=50091788\nPoints: 741\n# Comments: 347",
+      "creator": "latexr",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+      "pubDate": "Wed, 14 Oct 2026 16:28:51 +0000",
+      "isoDate": "2026-10-14T16:28:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/\">https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090349\">https://news.ycombinator.com/item?id=50090349</a></p>\n<p>Points: 264</p>\n<p># Comments: 64</p>\n",
+      "contentSnippet": "Article URL: https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/\nComments URL: https://news.ycombinator.com/item?id=50090349\nPoints: 264\n# Comments: 64",
+      "creator": "Brajeshwar",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "link": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+      "pubDate": "Wed, 14 Oct 2026 16:24:11 +0000",
+      "isoDate": "2026-10-14T16:24:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/\">https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090246\">https://news.ycombinator.com/item?id=50090246</a></p>\n<p>Points: 445</p>\n<p># Comments: 234</p>\n",
+      "contentSnippet": "Article URL: https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/\nComments URL: https://news.ycombinator.com/item?id=50090246\nPoints: 445\n# Comments: 234",
+      "creator": "bhrlady",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Passkeys are not a trap",
+      "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "pubDate": "Wed, 14 Oct 2026 15:15:45 +0000",
+      "isoDate": "2026-10-14T15:15:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://scotthelme.co.uk/passkeys-are-not-a-trap/\">https://scotthelme.co.uk/passkeys-are-not-a-trap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088935\">https://news.ycombinator.com/item?id=50088935</a></p>\n<p>Points: 324</p>\n<p># Comments: 505</p>\n",
+      "contentSnippet": "Article URL: https://scotthelme.co.uk/passkeys-are-not-a-trap/\nComments URL: https://news.ycombinator.com/item?id=50088935\nPoints: 324\n# Comments: 505",
+      "creator": "speckx",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Amazon pushes up prices across the Internet",
+      "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "pubDate": "Wed, 14 Oct 2026 09:28:17 +0000",
+      "isoDate": "2026-10-14T09:28:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/\">https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50084757\">https://news.ycombinator.com/item?id=50084757</a></p>\n<p>Points: 652</p>\n<p># Comments: 555</p>\n",
+      "contentSnippet": "Article URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/\nComments URL: https://news.ycombinator.com/item?id=50084757\nPoints: 652\n# Comments: 555",
+      "creator": "sighborg",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "link": "https://typeof.net/Iosevka/",
+      "pubDate": "Wed, 14 Oct 2026 08:27:59 +0000",
+      "isoDate": "2026-10-14T08:27:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://typeof.net/Iosevka/\">https://typeof.net/Iosevka/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50084240\">https://news.ycombinator.com/item?id=50084240</a></p>\n<p>Points: 660</p>\n<p># Comments: 275</p>\n",
+      "contentSnippet": "Article URL: https://typeof.net/Iosevka/\nComments URL: https://news.ycombinator.com/item?id=50084240\nPoints: 660\n# Comments: 275",
+      "creator": "otobrglez",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "link": "https://github.com/android/ndk/issues/2260",
+      "pubDate": "Wed, 14 Oct 2026 06:18:01 +0000",
+      "isoDate": "2026-10-14T06:18:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/android/ndk/issues/2260\">https://github.com/android/ndk/issues/2260</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50083130\">https://news.ycombinator.com/item?id=50083130</a></p>\n<p>Points: 469</p>\n<p># Comments: 233</p>\n",
+      "contentSnippet": "Article URL: https://github.com/android/ndk/issues/2260\nComments URL: https://news.ycombinator.com/item?id=50083130\nPoints: 469\n# Comments: 233",
+      "creator": "tharen",
+      "summaries": {
+        "zh": "无法生成摘要。"
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-14T21:42:55.767Z"
+}
